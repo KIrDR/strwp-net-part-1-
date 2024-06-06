@@ -1,0 +1,140 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>WebSocket</title>
+    <script src="modernizr-custom.js">
+
+    </script>
+    <script>
+
+        //let connectedWebSocket = document.getElementById('connectedWebSocket');
+        //let socket
+        //function UpdateState() {
+        //    connectedWebSocket.disabled = true;
+
+        //    if (!socket) {
+        //        disabled();
+        //    }
+        //    else {
+        //        switch (socket.readyState) {
+        //            case WebSocket.CLOSED:
+        //                connectedWebSocket.innerHTML = "Closed";
+        //                disable();
+        //                break;
+        //            case WebSocket.CLOSING:
+        //                connectedWebSocket.innerHTML = "Closing...";
+        //                disable();
+        //                break;
+        //            case WebSocket.CONNECTING:
+        //                connectedWebSocket.innerHTML = "Connecting...";
+        //                disable();
+        //                break;
+        //            case WebSocket.OPEN:
+        //                connectedWebSocket.innerHTML = "Open";
+        //                enable();
+        //                break;
+        //            default:
+        //                connectedWebSocket.innerHTML = "Unknown WebSocket State: " + socket.readyState;
+        //                disable();
+        //                break;
+        //        }
+        //    }
+        //}
+
+        var hh = document.getElementById("connectedWebSocket");
+
+        socket = new WebSocket('ws://localhost:5283/websocket');
+        function upload() { 
+            if (!WebSocket) {
+                hh.innerHTML += "YEs";
+            }
+        }
+    </script>
+</head>
+<body>
+    <header> <h1>Web Sockets</h1> </header>
+    <section style="width:800px; float: left">
+        <div id="wsproperties">
+            Web Sockets поддерживается? :<span id="connectedWebSocket" /><br />
+        </div>
+    </section>
+
+    <section style="width:215px;border: solid; ">
+        <div style="margin: 5px 5px 5px 5px">
+            <input id="bstart" type="button" value="Старт" onclick="exe_start()" style="width: 100px" />
+            <input id="bstop" type="button" value="Стоп" onclick="exe_stop()" style="width: 100px" />
+            <textarea id="ta" rows="20" cols="25" style="text-align: center;" readonly>
+            </textarea>
+        </div>
+
+    </section>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <!--var ta;
+        var ws = null;
+        var bstart;
+        var bstop;
+        window.onload = function () {
+            if (new WebSocket) {
+                WriteMessage(' support ','Yes');
+                ta = document.getE1ementById('ta');
+                bstart = document.getE1ementById('bstart');
+                bstop = document.getE1ementById('bstop');
+                bstart.disabled = false;
+                bstop.disabled = true;
+            }
+
+
+        }
+
+        function Writemessage(idspan, txt) {
+            var span = document.getE1ementById(idspan);
+            span.innerHTML = txt;
+        }
+
+        function exe_start() {
+            if (ws == null) {
+                ws = new WebSocket('');
+                ws.onopen = function () { ws.send('Connection'); }
+                ws.onclose = function (s) {
+                    console.log('onclose', s);
+                }
+                ws.onmessage = function (evt) {
+                    ta.innerHTML += '\n' + ent.data;
+                }
+                bstart.disabled = true;
+                bstop.disabled = false;
+            }
+        }
+
+        function exe_stop() {
+                ws.close(3001, 'stopapplication');
+                ws = null;
+                bstart.disabled = false;
+                bstop.disabled = true;
+        }-->

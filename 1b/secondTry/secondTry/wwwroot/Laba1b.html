@@ -1,0 +1,128 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>WebSocket</title>
+</head>
+<body>
+    <header> <h1>Web Sockets</h1> </header>
+
+    <div style="margin: 5px 5px 5px 5px">
+
+        <button id="connectButton" type="button"> Connect</button>
+        <p id="stateLabel1">Ready to connect...</p>
+        <br />
+
+        <button id="startResiving" disabled>startResiving </button>
+        <button id="stopResiving" disabled>stopResiving</button>
+    </div>
+
+
+        <p id="testlink">Hello</p>
+        <div>
+            <section>
+                <table style="width: 800px" border="1">
+                    <thead>
+                        <tr>
+                            <td style="width: 100px">From</td>
+                            <td style="width: 100px">To</td>
+                            <td>Data</td>
+                        </tr>
+                    </thead>
+                    <tbody id="commsLog">
+                    </tbody>
+                </table>
+            </section>
+
+        </div>
+       
+
+
+       
+
+    <script>
+        let connectButton = document.getElementById("connectButton");
+        let stateLabel = document.getElementById("stateLabel1");
+        let testlink = document.getElementById("testlink");
+        let startResiving = document.getElementById("startResiving");
+        let stopResiving = document.getElementById("stopResiving");
+
+
+        const scheme = document.location.protocol === "https:" ? "wss" : "ws";
+        const port = document.location.port ? (":" + document.location.port) : "";
+
+
+        const link = scheme + "://" + document.location.hostname + port + "/kirill.ws";
+
+
+        function enable() {
+            
+            startResiving.disabled = true;
+            stopResiving.disabled = false;
+
+        }
+
+        function disable() {
+
+            startResiving.disabled = false;
+            stopResiving.disabled = true;
+
+        }
+
+        startResiving.onclick = function () { 
+
+            enable();
+            socket = new WebSocket(link);
+            socket.onopen;
+            socket.onmessage = function (event) {
+                commsLog.innerHTML += '<tr>' +
+                    '<td >Server</td>' +
+                    '<td >Client</td>' +
+                    '<td >' + htmlEscape(event.data) + '</td></tr>';
+
+                stateLabel.innerHTML = "Receiving...";
+            };
+
+        }
+
+        
+        stopResiving.onclick = function () {
+            disable();
+            if (!socket || socket.readyState !== WebSocket.OPEN) {
+                alert("socket not connected");
+            }
+            commsLog.innerHTML += '<tr>' +
+                '<td colspan="3" >StopResiving</td>' +
+                '</tr>';
+            socket.close(1000, "Closing from client");
+            
+        }
+
+        connectButton.onclick = function () {
+
+            testlink.innerHTML = link;
+            stateLabel.innerHTML = "Connecting";
+            socket = new WebSocket(link);
+            socket.onopen = function (event) {
+                disable()
+                stateLabel.innerHTML = "Connected";
+                commsLog.innerHTML += '<tr>' +
+                    '<td/><td/><td>Connection opened</td>' +
+                    '</tr>';
+            }
+
+        }
+
+        function htmlEscape(str) {
+            return str.toString()
+                .replace(/&/g, '&amp;')
+                .replace(/"/g, '&quot;')
+                .replace(/'/g, '&#39;')
+                .replace(/</g, '&lt;')
+                .replace(/>/g, '&gt;');
+        }
+    </script>
+</body>
+</html>
+
+

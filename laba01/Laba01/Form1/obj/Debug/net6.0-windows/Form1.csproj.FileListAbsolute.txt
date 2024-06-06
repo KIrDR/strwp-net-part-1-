@@ -1,0 +1,17 @@
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\Laba01\Form1\bin\Debug\net6.0-windows\Form1.exe
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\Laba01\Form1\bin\Debug\net6.0-windows\Form1.deps.json
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\Laba01\Form1\bin\Debug\net6.0-windows\Form1.runtimeconfig.json
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\Laba01\Form1\bin\Debug\net6.0-windows\Form1.dll
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\Laba01\Form1\bin\Debug\net6.0-windows\Form1.pdb
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\Laba01\Form1\obj\Debug\net6.0-windows\Form1.csproj.AssemblyReference.cache
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\Laba01\Form1\obj\Debug\net6.0-windows\Form1.Form1.resources
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\Laba01\Form1\obj\Debug\net6.0-windows\Form1.csproj.GenerateResource.cache
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\Laba01\Form1\obj\Debug\net6.0-windows\Form1.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\Laba01\Form1\obj\Debug\net6.0-windows\Form1.AssemblyInfoInputs.cache
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\Laba01\Form1\obj\Debug\net6.0-windows\Form1.AssemblyInfo.cs
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\Laba01\Form1\obj\Debug\net6.0-windows\Form1.csproj.CoreCompileInputs.cache
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\Laba01\Form1\obj\Debug\net6.0-windows\Form1.dll
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\Laba01\Form1\obj\Debug\net6.0-windows\refint\Form1.dll
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\Laba01\Form1\obj\Debug\net6.0-windows\Form1.pdb
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\Laba01\Form1\obj\Debug\net6.0-windows\Form1.genruntimeconfig.cache
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\Laba01\Form1\obj\Debug\net6.0-windows\ref\Form1.dll

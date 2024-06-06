@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Task5</title>
+    <script>
+        function sendRequest() {
+            var x = document.getElementById("x").value;
+            var y = document.getElementById("y").value;
+
+            var xhr = new XMLHttpRequest();
+            xhr.open("POST", "example.task5 ", true);
+            xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState === 4 && xhr.status === 200) {
+                    document.getElementById("result").innerHTML = xhr.responseText;
+                }
+            };
+            xhr.send("x=" + x + "&y=" + y);
+        }
+    </script>
+</head>
+<body>
+    <label for="x">X</label>
+    <input type="text" id="x" placeholder="Enter x" />
+    <label for="y">Y</label>
+    <input type="text" id="y" placeholder="Enter y" />
+    <button onclick="sendRequest()">Send</button>
+    <div id="result"></div>
+</body>
+</html>

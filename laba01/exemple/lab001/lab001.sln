@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab001", "lab001\lab001.csproj", "{DBB0C941-9EE0-42EF-A0D7-FFBEEE5AE274}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{7A542A6E-91CF-41A6-9EE6-6783EB935857}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBB0C941-9EE0-42EF-A0D7-FFBEEE5AE274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBB0C941-9EE0-42EF-A0D7-FFBEEE5AE274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBB0C941-9EE0-42EF-A0D7-FFBEEE5AE274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBB0C941-9EE0-42EF-A0D7-FFBEEE5AE274}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A542A6E-91CF-41A6-9EE6-6783EB935857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A542A6E-91CF-41A6-9EE6-6783EB935857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A542A6E-91CF-41A6-9EE6-6783EB935857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A542A6E-91CF-41A6-9EE6-6783EB935857}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

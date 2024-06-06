@@ -1,0 +1,61 @@
+D:\СТРWП\ASPCMVC\ASPCMVC02\bin\Debug\net6.0\appsettings.Development.json
+D:\СТРWП\ASPCMVC\ASPCMVC02\bin\Debug\net6.0\appsettings.json
+D:\СТРWП\ASPCMVC\ASPCMVC02\bin\Debug\net6.0\ASPCMVC02.staticwebassets.runtime.json
+D:\СТРWП\ASPCMVC\ASPCMVC02\bin\Debug\net6.0\ASPCMVC02.exe
+D:\СТРWП\ASPCMVC\ASPCMVC02\bin\Debug\net6.0\ASPCMVC02.deps.json
+D:\СТРWП\ASPCMVC\ASPCMVC02\bin\Debug\net6.0\ASPCMVC02.runtimeconfig.json
+D:\СТРWП\ASPCMVC\ASPCMVC02\bin\Debug\net6.0\ASPCMVC02.dll
+D:\СТРWП\ASPCMVC\ASPCMVC02\bin\Debug\net6.0\ASPCMVC02.pdb
+D:\СТРWП\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\ASPCMVC02.GeneratedMSBuildEditorConfig.editorconfig
+D:\СТРWП\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\ASPCMVC02.AssemblyInfoInputs.cache
+D:\СТРWП\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\ASPCMVC02.AssemblyInfo.cs
+D:\СТРWП\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\ASPCMVC02.csproj.CoreCompileInputs.cache
+D:\СТРWП\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\ASPCMVC02.MvcApplicationPartsAssemblyInfo.cache
+D:\СТРWП\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\ASPCMVC02.RazorAssemblyInfo.cache
+D:\СТРWП\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\ASPCMVC02.RazorAssemblyInfo.cs
+D:\СТРWП\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\staticwebassets\msbuild.ASPCMVC02.Microsoft.AspNetCore.StaticWebAssets.props
+D:\СТРWП\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\staticwebassets\msbuild.build.ASPCMVC02.props
+D:\СТРWП\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASPCMVC02.props
+D:\СТРWП\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASPCMVC02.props
+D:\СТРWП\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\staticwebassets.pack.json
+D:\СТРWП\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\staticwebassets.build.json
+D:\СТРWП\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\staticwebassets.development.json
+D:\СТРWП\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\СТРWП\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\scopedcss\bundle\ASPCMVC02.styles.css
+D:\СТРWП\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\scopedcss\projectbundle\ASPCMVC02.bundle.scp.css
+D:\СТРWП\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\ASPCMVC02.dll
+D:\СТРWП\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\refint\ASPCMVC02.dll
+D:\СТРWП\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\ASPCMVC02.pdb
+D:\СТРWП\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\ASPCMVC02.genruntimeconfig.cache
+D:\СТРWП\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\ref\ASPCMVC02.dll
+C:\MyStudy\3курс1семестр\СТР - Смелов\2a\ASPCMVC\ASPCMVC02\bin\Debug\net6.0\appsettings.Development.json
+C:\MyStudy\3курс1семестр\СТР - Смелов\2a\ASPCMVC\ASPCMVC02\bin\Debug\net6.0\appsettings.json
+C:\MyStudy\3курс1семестр\СТР - Смелов\2a\ASPCMVC\ASPCMVC02\bin\Debug\net6.0\ASPCMVC02.staticwebassets.runtime.json
+C:\MyStudy\3курс1семестр\СТР - Смелов\2a\ASPCMVC\ASPCMVC02\bin\Debug\net6.0\ASPCMVC02.exe
+C:\MyStudy\3курс1семестр\СТР - Смелов\2a\ASPCMVC\ASPCMVC02\bin\Debug\net6.0\ASPCMVC02.deps.json
+C:\MyStudy\3курс1семестр\СТР - Смелов\2a\ASPCMVC\ASPCMVC02\bin\Debug\net6.0\ASPCMVC02.runtimeconfig.json
+C:\MyStudy\3курс1семестр\СТР - Смелов\2a\ASPCMVC\ASPCMVC02\bin\Debug\net6.0\ASPCMVC02.dll
+C:\MyStudy\3курс1семестр\СТР - Смелов\2a\ASPCMVC\ASPCMVC02\bin\Debug\net6.0\ASPCMVC02.pdb
+C:\MyStudy\3курс1семестр\СТР - Смелов\2a\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\ASPCMVC02.csproj.AssemblyReference.cache
+C:\MyStudy\3курс1семестр\СТР - Смелов\2a\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\ASPCMVC02.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStudy\3курс1семестр\СТР - Смелов\2a\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\ASPCMVC02.AssemblyInfoInputs.cache
+C:\MyStudy\3курс1семестр\СТР - Смелов\2a\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\ASPCMVC02.AssemblyInfo.cs
+C:\MyStudy\3курс1семестр\СТР - Смелов\2a\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\ASPCMVC02.csproj.CoreCompileInputs.cache
+C:\MyStudy\3курс1семестр\СТР - Смелов\2a\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\ASPCMVC02.MvcApplicationPartsAssemblyInfo.cache
+C:\MyStudy\3курс1семестр\СТР - Смелов\2a\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\ASPCMVC02.RazorAssemblyInfo.cache
+C:\MyStudy\3курс1семестр\СТР - Смелов\2a\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\ASPCMVC02.RazorAssemblyInfo.cs
+C:\MyStudy\3курс1семестр\СТР - Смелов\2a\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\staticwebassets\msbuild.ASPCMVC02.Microsoft.AspNetCore.StaticWebAssets.props
+C:\MyStudy\3курс1семестр\СТР - Смелов\2a\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\staticwebassets\msbuild.build.ASPCMVC02.props
+C:\MyStudy\3курс1семестр\СТР - Смелов\2a\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASPCMVC02.props
+C:\MyStudy\3курс1семестр\СТР - Смелов\2a\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASPCMVC02.props
+C:\MyStudy\3курс1семестр\СТР - Смелов\2a\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\staticwebassets.pack.json
+C:\MyStudy\3курс1семестр\СТР - Смелов\2a\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\staticwebassets.build.json
+C:\MyStudy\3курс1семестр\СТР - Смелов\2a\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\staticwebassets.development.json
+C:\MyStudy\3курс1семестр\СТР - Смелов\2a\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\MyStudy\3курс1семестр\СТР - Смелов\2a\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\scopedcss\bundle\ASPCMVC02.styles.css
+C:\MyStudy\3курс1семестр\СТР - Смелов\2a\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\scopedcss\projectbundle\ASPCMVC02.bundle.scp.css
+C:\MyStudy\3курс1семестр\СТР - Смелов\2a\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\ASPCMVC02.dll
+C:\MyStudy\3курс1семестр\СТР - Смелов\2a\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\refint\ASPCMVC02.dll
+C:\MyStudy\3курс1семестр\СТР - Смелов\2a\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\ASPCMVC02.pdb
+C:\MyStudy\3курс1семестр\СТР - Смелов\2a\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\ASPCMVC02.genruntimeconfig.cache
+C:\MyStudy\3курс1семестр\СТР - Смелов\2a\ASPCMVC\ASPCMVC02\obj\Debug\net6.0\ref\ASPCMVC02.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "oi9Ot2Azr89Z5tZyouQS0FaiiyeE33v4EhdqZ/a/2xM=",
+  "Source": "secondTry",
+  "BasePath": "_content/secondTry",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "secondTry\\wwwroot",
+      "Source": "secondTry",
+      "ContentRoot": "C:\\MyStudy\\3курс1семестр\\СТР - Смелов\\2\\secondTry\\secondTry\\wwwroot\\",
+      "BasePath": "_content/secondTry",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\MyStudy\\3курс1семестр\\СТР - Смелов\\2\\secondTry\\secondTry\\wwwroot\\Laba1b.html",
+      "SourceId": "secondTry",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\MyStudy\\3курс1семестр\\СТР - Смелов\\2\\secondTry\\secondTry\\wwwroot\\",
+      "BasePath": "_content/secondTry",
+      "RelativePath": "Laba1b.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Laba1b.html"
+    }
+  ]
+}

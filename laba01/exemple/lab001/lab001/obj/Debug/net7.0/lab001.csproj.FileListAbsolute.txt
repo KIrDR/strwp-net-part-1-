@@ -1,0 +1,51 @@
+D:\study\sem5\STRWP\lab001\lab001\bin\Debug\net7.0\appsettings.Development.json
+D:\study\sem5\STRWP\lab001\lab001\bin\Debug\net7.0\appsettings.json
+D:\study\sem5\STRWP\lab001\lab001\bin\Debug\net7.0\lab001.exe
+D:\study\sem5\STRWP\lab001\lab001\bin\Debug\net7.0\lab001.deps.json
+D:\study\sem5\STRWP\lab001\lab001\bin\Debug\net7.0\lab001.runtimeconfig.json
+D:\study\sem5\STRWP\lab001\lab001\bin\Debug\net7.0\lab001.dll
+D:\study\sem5\STRWP\lab001\lab001\bin\Debug\net7.0\lab001.pdb
+D:\study\sem5\STRWP\lab001\lab001\obj\Debug\net7.0\lab001.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\sem5\STRWP\lab001\lab001\obj\Debug\net7.0\lab001.AssemblyInfoInputs.cache
+D:\study\sem5\STRWP\lab001\lab001\obj\Debug\net7.0\lab001.AssemblyInfo.cs
+D:\study\sem5\STRWP\lab001\lab001\obj\Debug\net7.0\lab001.csproj.CoreCompileInputs.cache
+D:\study\sem5\STRWP\lab001\lab001\obj\Debug\net7.0\lab001.MvcApplicationPartsAssemblyInfo.cache
+D:\study\sem5\STRWP\lab001\lab001\obj\Debug\net7.0\staticwebassets\msbuild.lab001.Microsoft.AspNetCore.StaticWebAssets.props
+D:\study\sem5\STRWP\lab001\lab001\obj\Debug\net7.0\staticwebassets\msbuild.build.lab001.props
+D:\study\sem5\STRWP\lab001\lab001\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.lab001.props
+D:\study\sem5\STRWP\lab001\lab001\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.lab001.props
+D:\study\sem5\STRWP\lab001\lab001\obj\Debug\net7.0\staticwebassets.pack.json
+D:\study\sem5\STRWP\lab001\lab001\obj\Debug\net7.0\staticwebassets.build.json
+D:\study\sem5\STRWP\lab001\lab001\obj\Debug\net7.0\staticwebassets.development.json
+D:\study\sem5\STRWP\lab001\lab001\obj\Debug\net7.0\scopedcss\bundle\lab001.styles.css
+D:\study\sem5\STRWP\lab001\lab001\obj\Debug\net7.0\lab001.dll
+D:\study\sem5\STRWP\lab001\lab001\obj\Debug\net7.0\refint\lab001.dll
+D:\study\sem5\STRWP\lab001\lab001\obj\Debug\net7.0\lab001.pdb
+D:\study\sem5\STRWP\lab001\lab001\obj\Debug\net7.0\lab001.genruntimeconfig.cache
+D:\study\sem5\STRWP\lab001\lab001\obj\Debug\net7.0\ref\lab001.dll
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\exemple\lab001\lab001\bin\Debug\net7.0\appsettings.Development.json
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\exemple\lab001\lab001\bin\Debug\net7.0\appsettings.json
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\exemple\lab001\lab001\bin\Debug\net7.0\lab001.exe
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\exemple\lab001\lab001\bin\Debug\net7.0\lab001.deps.json
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\exemple\lab001\lab001\bin\Debug\net7.0\lab001.runtimeconfig.json
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\exemple\lab001\lab001\bin\Debug\net7.0\lab001.dll
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\exemple\lab001\lab001\bin\Debug\net7.0\lab001.pdb
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\exemple\lab001\lab001\obj\Debug\net7.0\lab001.csproj.AssemblyReference.cache
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\exemple\lab001\lab001\obj\Debug\net7.0\lab001.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\exemple\lab001\lab001\obj\Debug\net7.0\lab001.AssemblyInfoInputs.cache
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\exemple\lab001\lab001\obj\Debug\net7.0\lab001.AssemblyInfo.cs
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\exemple\lab001\lab001\obj\Debug\net7.0\lab001.csproj.CoreCompileInputs.cache
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\exemple\lab001\lab001\obj\Debug\net7.0\lab001.MvcApplicationPartsAssemblyInfo.cache
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\exemple\lab001\lab001\obj\Debug\net7.0\staticwebassets\msbuild.lab001.Microsoft.AspNetCore.StaticWebAssets.props
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\exemple\lab001\lab001\obj\Debug\net7.0\staticwebassets\msbuild.build.lab001.props
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\exemple\lab001\lab001\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.lab001.props
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\exemple\lab001\lab001\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.lab001.props
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\exemple\lab001\lab001\obj\Debug\net7.0\staticwebassets.pack.json
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\exemple\lab001\lab001\obj\Debug\net7.0\staticwebassets.build.json
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\exemple\lab001\lab001\obj\Debug\net7.0\staticwebassets.development.json
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\exemple\lab001\lab001\obj\Debug\net7.0\scopedcss\bundle\lab001.styles.css
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\exemple\lab001\lab001\obj\Debug\net7.0\lab001.dll
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\exemple\lab001\lab001\obj\Debug\net7.0\refint\lab001.dll
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\exemple\lab001\lab001\obj\Debug\net7.0\lab001.pdb
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\exemple\lab001\lab001\obj\Debug\net7.0\lab001.genruntimeconfig.cache
+C:\MyStudy\3курс1семестр\СТР - Смелов\laba01\exemple\lab001\lab001\obj\Debug\net7.0\ref\lab001.dll

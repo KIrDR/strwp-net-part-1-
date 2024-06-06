@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Простая страница</title>
+</head>
+<body>
+    <p id="displayText">Это начальный текст.</p>
+    <button id="changeTextButton">Изменить текст</button>
+
+    <script>
+        // Получаем ссылки на элементы
+        let displayText = document.getElementById("displayText");
+        let changeTextButton = document.getElementById("changeTextButton");
+
+        // Обработчик события при нажатии на кнопку
+        changeTextButton.onclick = function () {
+            displayText.innerHTML = "Текст изменен!";
+        }
+    </script>
+</body>
+</html>
